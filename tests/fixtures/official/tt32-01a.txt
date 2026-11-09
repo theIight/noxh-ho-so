@@ -1,0 +1,35 @@
+# Mẫu số 01a (bản hiện hành), thân bài trích từ templates-src/vbhn-17-2026/BXD_17-VBHN-BXD_24032026_Phuluc.pdf
+# trang 5–6 (pypdf); chú thích theo 32-bxd.pdf trang 7–8 (số 5–9, giống VBHN 13–16, 18).
+# Không đưa chú thích 17 của VBHN (ghi chú hợp nhất về việc bãi bỏ cụm "photo..."), không thuộc mẫu.
+# Bỏ số chú thích trong thân bài; nối lại dòng bị ngắt; sửa lỗi tách chữ của pypdf ("n ơi" → "nơi").
+Mẫu số 01a. Giấy tờ chứng minh đối tượng, thu nhập để được hưởng chính sách hỗ trợ về nhà ở xã hội (áp dụng cho các đối tượng quy định tại các khoản 5, 6, 8 Điều 76 của Luật Nhà ở, trừ đối tượng quy định tại khoản 5 Điều 76 của Luật Nhà ở không có hợp đồng lao động, không được hưởng lương hưu do cơ quan Bảo hiểm xã hội chi trả)
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+-----------------
+GIẤY XÁC NHẬN VỀ ĐỐI TƯỢNG, THU NHẬP
+1. Kính gửi:………………………………………………………………………
+2. Họ và tên:………………………………………………………………………
+3. Căn cước công dân số: ………………….cấp ngày...../..../...... tại ……………
+4. Nơi ở hiện tại:…………………………………………………………………
+5. Đăng ký thường trú (đăng ký tạm trú) tại:  ...... ………………………………..
+6. Nghề nghiệp: .......................................................................................................
+7. Tên cơ quan/đơn vị: ............................................................................................
+8. Là đối tượng:  .....................................................................................................
+9. Tôi có thu nhập bình quân hàng tháng thực nhận tính theo Bảng tiền công/tiền lương là…………… đồng/tháng.
+Tôi xin cam đoan những lời khai trên là đúng sự thực và hoàn toàn chịu trách nhiệm trước pháp luật về các nội dung đã kê khai./.
+........., ngày ....... tháng ...... năm .......
+Người kê khai
+(Ký và ghi rõ họ tên)
+Xác nhận của cơ quan, đơn vị, doanh nghiệp
+Ông/Bà………….là đối tượng ……………......……, có tổng thu nhập bình quân hàng tháng thực nhận theo Bảng tiền công/tiền lương là…….…..... đồng/tháng.
+(Ký tên, đóng dấu)
+ Trường hợp các đối tượng này thuê nhà ở xã hội hoặc tự xây dựng hoặc cải tạo, sửa chữa nhà ở thì không phải xác nhận điều kiện về thu nhập tại mục 9 Mẫu này.
+ Cơ quan, đơn vị, doanh nghiệp nơi người kê khai đang làm việc thực hiện việc xác nhận.
+Trường hợp người kê khai đang được hưởng lương hưu do cơ quan Bảo hiểm xã hội chi trả theo quy định của pháp luật về bảo hiểm xã hội thì cơ quan Bảo hiểm xã hội đang chi trả lương hưu hoặc Ủy ban nhân dân cấp xã nơi đăng ký thường trú hoặc tạm trú hoặc nơi ở hiện tại thực hiện việc xác nhận.
+ Là nơi thường trú hoặc nơi tạm trú; trường hợp không có nơi thường trú, nơi tạm trú thì nơi ở hiện tại là nơi người kê khai đang thực tế sinh sống.
+ Ghi rõ người kê khai là đối tượng:
+- Người thu nhập thấp tại khu vực đô thị (trừ trường hợp người thu nhập thấp tại khu vực đô thị không có hợp đồng lao động, không được hưởng lương hưu do cơ quan Bảo hiểm xã hội chi trả quy định tại khoản 5 Điều 76 của Luật Nhà ở). Trường hợp đối tượng đã nghỉ chế độ (nghỉ hưu) thì ghi rõ: người thu nhập thấp tại khu vực đô thị (nghỉ hưu);
+- Công nhân, người lao động đang làm việc tại doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã trong và ngoài khu công nghiệp;
+- Cán bộ, công chức, viên chức theo quy định của pháp luật về cán bộ, công chức, viên chức.
+Trường hợp vợ hoặc chồng của người kê khai thực hiện kê khai theo Mẫu này thì không phải kê khai đối tượng tại mục 8.
+ Đối tượng thuộc mục kê khai số 8.

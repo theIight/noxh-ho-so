@@ -1,0 +1,28 @@
+# Mẫu số 05 Phụ lục TT 08/2026/TT-BXD, trích từ templates-src/tt08-2026/08-bxd-kem.pdf trang 5 (pypdf).
+# Bỏ số chú thích (superscript) trong thân bài; chú thích 10–13 đặt sau thân bài.
+# Nối lại các dòng bị ngắt trong PDF ("NĐ-\nCP" → "NĐ-CP"). So sánh sau khi chuẩn hoá khoảng trắng.
+Mẫu số 05. Giấy tờ chứng minh đối tượng, thu nhập để được mua, thuê mua nhà ở xã hội (áp dụng cho đối tượng quy định tại khoản 5 Điều 76 của Luật Nhà ở không có hợp đồng lao động, không được hưởng lương hưu do cơ quan Bảo hiểm xã hội chi trả)
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+-----------------
+ĐƠN ĐỀ NGHỊ XÁC NHẬN ĐIỀU KIỆN VỀ THU NHẬP
+(GIẤY TỜ CHỨNG MINH ĐỐI TƯỢNG, THU NHẬP)
+1. Kính gửi: Công an ............................................................................................
+2. Họ, chữ đệm và tên: ............................................................................................
+3. Ngày, tháng, năm sinh: ………/……/……….. 4. Giới tính: ………………..…
+5. Số định danh cá nhân (nếu có): ………………………………………………..
+6. Thẻ căn cước/căn cước công dân số:………………….. cấp ngày …./.../..........
+7. Nơi ở hiện tại: ………………………………………………………………..
+8. Đăng ký thường trú (đăng ký tạm trú) tại: ..........................................................
+9. Là đối tượng : ………………………………………………………………..
+10. Tôi có thu nhập bình quân hàng tháng thực nhận là ………............. đồng/tháng.
+Tôi xin cam đoan những lời khai trên là đúng sự thực và hoàn toàn chịu trách nhiệm trước pháp luật về các nội dung đã kê khai./.
+........., ngày ....... tháng ...... năm ....
+Người kê khai
+(Ký và ghi rõ họ tên)
+Xác nhận của Công an cấp xã
+(Ký tên, đóng dấu)
+ Cơ quan Công an cấp xã nơi thường trú hoặc tạm trú hoặc nơi ở hiện tại.
+ Là nơi thường trú hoặc nơi tạm trú; trường hợp không có nơi thường trú, nơi tạm trú thì nơi ở hiện tại là nơi người kê khai đang thực tế sinh sống.
+ Ghi rõ người kê khai là đối tượng: người thu nhập thấp tại khu vực đô thị không có hợp đồng lao động, không được hưởng lương hưu do cơ quan Bảo hiểm xã hội chi trả.
+ Cơ quan công an cấp xã nơi thường trú hoặc tạm trú hoặc nơi ở hiện tại có trách nhiệm xác nhận theo quy định tại khoản 2 Điều 30 của Nghị định số 100/2024/NĐ-CP đã được sửa đổi, bổ sung tại Nghị định số 261/2025/NĐ-CP và Nghị định số 54/2026/NĐ-CP.

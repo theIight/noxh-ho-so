@@ -1,0 +1,19 @@
+node_modules/
+dist/
+dist-ssr/
+coverage/
+*.local
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
+.vite/
+.DS_Store
+*.log
+# Generated output from verify / manual testing
+out/
+tmp/
+
+# Văn bản gốc: PDF lớn, tải lại theo link trong docs/legal-sources.md. File bên thứ ba chỉ để tham khảo.
+templates-src/**/*.pdf
+templates-src/**/_thirdparty/

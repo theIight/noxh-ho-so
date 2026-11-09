@@ -1,0 +1,33 @@
+# Mẫu số 01 Phụ lục TT 08/2026/TT-BXD, trích từ templates-src/tt08-2026/08-bxd-kem.pdf trang 1–2 (pypdf).
+# Bỏ số chú thích (superscript) trong thân bài; chú thích đặt sau thân bài theo thứ tự 1–5.
+# Nối lại các dòng bị ngắt trong PDF. So sánh sau khi chuẩn hoá khoảng trắng.
+Mẫu số 01. Giấy tờ chứng minh đối tượng được hưởng chính sách hỗ trợ về nhà ở xã hội (áp dụng cho các đối tượng quy định tại các khoản 9, 10, 11 Điều 76 của Luật Nhà ở)
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+-----------------
+GIẤY XÁC NHẬN VỀ ĐỐI TƯỢNG
+1. Kính gửi:………………………………………………………………………
+2. Họ và tên:………………………………………………………………………
+3. Căn cước công dân số: ………………….cấp ngày...../..../...... tại ……………
+4. Nơi ở hiện tại:…………………………………………………………………
+5. Đăng ký thường trú (đăng ký tạm trú) tại: .......………………………………..
+6. Nghề nghiệp.............................. Tên cơ quan (đơn vị) ………………..............
+...............................................................................................................................
+7. Là đối tượng …………………………………………………………………..
+Tôi xin cam đoan những lời khai trên là đúng sự thực và hoàn toàn chịu trách nhiệm trước pháp luật về các nội dung đã kê khai./.
+........., ngày ....... tháng ...... năm .......
+Người kê khai
+(Ký và ghi rõ họ tên)
+Xác nhận của cơ quan, đơn vị, doanh nghiệp
+Ông/Bà……………là đối tượng ………….....
+(Ký tên, đóng dấu)
+ - Ủy ban nhân dân cấp xã nơi đăng ký thường trú hoặc tạm trú hoặc nơi ở hiện tại của người kê khai thực hiện việc xác nhận trong trường hợp: đối tượng quy định tại khoản 10 Điều 76 của Luật Nhà ở.
+- Cơ quan quản lý nhà ở công vụ của người kê khai trong trường hợp người kê khai thuộc đối tượng quy định tại khoản 9 Điều 76 của Luật Nhà ở.
+- Đại học, học viện, trường đại học, cao đẳng, dạy nghề, trường dân tộc nội trú công lập, trường chuyên biệt theo quy định của pháp luật thực hiện việc xác nhận đối với đối tượng quy định tại khoản 11 Điều 76 của Luật Nhà ở.
+ Là nơi thường trú hoặc nơi tạm trú; trường hợp không có nơi thường trú, nơi tạm trú thì nơi ở hiện tại là nơi người kê khai đang thực tế sinh sống.
+ Ghi rõ người kê khai là đối tượng:
+- Đối tượng đã trả lại nhà ở công vụ theo quy định, trừ trường hợp bị thu hồi nhà ở công vụ do vi phạm quy định.
+- Hộ gia đình, cá nhân thuộc trường hợp bị thu hồi đất và phải giải tỏa, phá dỡ nhà ở theo quy định của pháp luật mà chưa được Nhà nước bồi thường bằng nhà ở, đất ở.
+- Học sinh, sinh viên đại học, học viện, trường đại học, cao đẳng, dạy nghề, học sinh trường dân tộc nội trú công lập, trường chuyên biệt theo quy định của pháp luật.
+ Nơi xác nhận thuộc mục kê khai số 1.
+ Đối tượng thuộc mục kê khai số 7.
